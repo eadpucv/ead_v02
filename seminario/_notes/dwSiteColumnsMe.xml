@@ -1,0 +1,8 @@
+<columnlist>
+<column name="Carpeta%20local" align="left" show="TRUE" share="FALSE" builtin="TRUE" localwidth="90" remotewidth="51" />
+<column name="Notas" align="center" show="TRUE" share="FALSE" builtin="TRUE" localwidth="36" remotewidth="36" />
+<column name="Tama%F1o" align="left" show="TRUE" share="FALSE" builtin="TRUE" localwidth="40" remotewidth="40" />
+<column name="Tipo" align="left" show="TRUE" share="FALSE" builtin="TRUE" localwidth="60" remotewidth="60" />
+<column name="Modificado" align="left" show="TRUE" share="FALSE" builtin="TRUE" localwidth="102" remotewidth="102" />
+<column name="Protegido%20por" align="left" show="TRUE" share="FALSE" builtin="TRUE" localwidth="-1" remotewidth="-1" />
+</columnlist>

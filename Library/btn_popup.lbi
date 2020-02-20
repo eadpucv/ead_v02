@@ -1,0 +1,11 @@
+<table width="67" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          
+    <td width="18"><a href="../pags/post/mapa_dibu.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image5','','../imag/btn/btn_ret_b.gif',1)"><img name="Image5" border="0" src="../imag/btn/btn_ret_a.gif" width="18" height="18"></a></td>
+          <td width="3">&nbsp;</td>
+          
+    <td width="18"><a href="../pags/post/mapa_entr.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image4','','../imag/btn/btn_av_b.gif',1)"><img name="Image4" border="0" src="../imag/btn/btn_av_a.gif" width="18" height="18"></a></td>
+          <td width="10">&nbsp;</td>
+          <td width="18"><a href="#" onMouseDown="MM_callJS('window.close()')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image3','','../imag/btn/btn_cerr_b.gif',1)"><img name="Image3" border="0" src="../imag/btn/btn_cerr_a.gif" width="18" height="18" ></a></td>
+        </tr>
+      </table>
